@@ -1,0 +1,26 @@
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore system files (Windows)
+Thumbs.db
+.DS_Store
+
+# Ignore compiled files
+*.exe
+*.dll
+*.class
+*.jar
+
+# Ignore node_modules if any (for JS/Node projects)
+node_modules/
